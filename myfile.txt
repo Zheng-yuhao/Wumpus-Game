@@ -1,7 +1,4 @@
 sarusennseino
 gitcommand
 
-addition.
-issue2.
-issue3.
-check git diff HEAD;
+pull request test.!!!
